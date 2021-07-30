@@ -8,6 +8,12 @@ npm run devStart on server to run socket.io on localhost:5000
 ![Deployment Image](/client/public/readme2.png)
 ![Deployment Image](/client/public/readme3.png)
 
+### Tutorial followed
+
+All this was made following Web Dev Simplified's tutorial:
+
+https://www.youtube.com/watch?v=tBr-PybP_9c&t=2924s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
