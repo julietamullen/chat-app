@@ -4,9 +4,9 @@ This is a live chat app developed with ReactJS (with special attention on hooks)
 
 npm run devStart on server to run socket.io on localhost:5000
 
-![Deployment Image](/public/readme1.png)
-![Deployment Image](/public/readme2.png)
-![Deployment Image](/public/readme3.png)
+![Deployment Image](/client/public/readme1.png)
+![Deployment Image](/client/public/readme2.png)
+![Deployment Image](/client/public/readme3.png)
 
 # Getting Started with Create React App
 
